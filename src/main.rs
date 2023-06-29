@@ -3,7 +3,7 @@ use std::io::{BufRead, BufReader, BufWriter, Write};
 
 fn main() {
     let log_file_path = "input_logg.txt";
-    let search_string = "madmange is alive";
+    let search_string = "Some string";
     let special_number = 42;
     let output_file_path = "output_logg.txt";
 
